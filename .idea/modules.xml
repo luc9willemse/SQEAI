@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EAIBusSimulator_Opdracht/Bussimulator.iml" filepath="$PROJECT_DIR$/EAIBusSimulator_Opdracht/Bussimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SQEAI.iml" filepath="$PROJECT_DIR$/.idea/SQEAI.iml" />
+    </modules>
+  </component>
+</project>
